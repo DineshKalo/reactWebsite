@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/reactWebsite/static/css/main.1bb038fc.css",
+    "main.js": "/reactWebsite/static/js/main.d137601c.js",
+    "static/media/water.png": "/reactWebsite/static/media/water.b9031e051bd010938bbe.png",
+    "static/media/M2.jpeg": "/reactWebsite/static/media/M2.c6fdff641dbe640bd10a.jpeg",
+    "static/media/M1.jpeg": "/reactWebsite/static/media/M1.53eece20840f16916f70.jpeg",
+    "static/media/Background.jpg": "/reactWebsite/static/media/Background.45b8b4901619c0f5b2d3.jpg",
+    "static/media/Slide3.jpeg": "/reactWebsite/static/media/Slide3.5e3542cf295e04873798.jpeg",
+    "static/media/Slide4.jpeg": "/reactWebsite/static/media/Slide4.a7d900449fbea8acdec4.jpeg",
+    "static/media/Slide5.jpeg": "/reactWebsite/static/media/Slide5.41c1ea4aae58afc27cc7.jpeg",
+    "static/media/Slide1.jpeg": "/reactWebsite/static/media/Slide1.d8e922396662e62a3d50.jpeg",
+    "static/media/M3.jpeg": "/reactWebsite/static/media/M3.0ec6b355e9af61a389ff.jpeg",
+    "static/media/Slide2.jpeg": "/reactWebsite/static/media/Slide2.bb5af50e3e5772cc8ddd.jpeg",
+    "static/media/M4.jpeg": "/reactWebsite/static/media/M4.c2a3d3386e4602a266d1.jpeg",
+    "static/media/H5.png": "/reactWebsite/static/media/H5.7c08bd3137aebd9cfa0a.png",
+    "static/media/slick.svg": "/reactWebsite/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/reactWebsite/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/reactWebsite/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/reactWebsite/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/reactWebsite/index.html",
+    "main.1bb038fc.css.map": "/reactWebsite/static/css/main.1bb038fc.css.map",
+    "main.d137601c.js.map": "/reactWebsite/static/js/main.d137601c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1bb038fc.css",
+    "static/js/main.d137601c.js"
+  ]
+}
